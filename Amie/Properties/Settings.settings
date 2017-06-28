@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Amie.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TCPClientPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8765</Value>
+    </Setting>
+    <Setting Name="TCPClientAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TCPServerPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8765</Value>
+    </Setting>
+    <Setting Name="TCPServerAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BaseUpdatePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\AmieServer\Apps</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
